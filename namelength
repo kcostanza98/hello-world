@@ -1,0 +1,4 @@
+String name="Kaitlyn";
+int len;
+len=name.length();
+System.out.println"Length= " +len);
